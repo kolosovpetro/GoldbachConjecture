@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldbachConjecture.BertrandValues", "GoldbachConjecture.BertrandValues\GoldbachConjecture.BertrandValues.csproj", "{3444D443-BB99-4BD2-866A-032450ABC2CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldbachConjecture.BertrandValues.Tests", "GoldbachConjecture.BertrandValues.Tests\GoldbachConjecture.BertrandValues.Tests.csproj", "{D1E861B3-1453-4353-96CD-29ED73F9115C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldbachConjecture.BertrandValues.UI", "GoldbachConjecture.BertrandValues.UI\GoldbachConjecture.BertrandValues.UI.csproj", "{5E7D88D5-B3B6-447E-B9C5-CB97E5CED9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3444D443-BB99-4BD2-866A-032450ABC2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3444D443-BB99-4BD2-866A-032450ABC2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3444D443-BB99-4BD2-866A-032450ABC2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3444D443-BB99-4BD2-866A-032450ABC2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E861B3-1453-4353-96CD-29ED73F9115C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E861B3-1453-4353-96CD-29ED73F9115C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E861B3-1453-4353-96CD-29ED73F9115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E861B3-1453-4353-96CD-29ED73F9115C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7D88D5-B3B6-447E-B9C5-CB97E5CED9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7D88D5-B3B6-447E-B9C5-CB97E5CED9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7D88D5-B3B6-447E-B9C5-CB97E5CED9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7D88D5-B3B6-447E-B9C5-CB97E5CED9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
